@@ -6,7 +6,7 @@
 - [Quiénes somos](#quienes-somos)
 - [Ayuda mutua](#ayuda-mutua)
 - [Encuentros](#encuentros)
-  - [Mensuales (online)](#mensuales-online)
+  - [Virtuales](#virtuales)
   - [Presenciales](#presenciales)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -27,21 +27,22 @@ Con el objetivo de poder ayudarnos se han creado varias iniciativas:
 
 ## Encuentros
 
-### Mensuales (online)
+### Virtuales
 
-Todos los meses organizamos dos encuentros online en los que pueden participar personas que forman parte de la comunidad, y cuyo es conocer a nuevas personas, y comentar progresos hechos por parte de la comunidad: 
+**Todos los meses** organizamos dos encuentros online en los que pueden participar personas que forman parte de la comunidad (ver el [calendario de encuentros](https://calendar.google.com/calendar/u/0/embed?src=f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12@group.calendar.google.com&ctz=Europe/Madrid)), y cuyo es conocer a nuevas personas, y comentar progresos hechos por parte de la comunidad: 
+
 ![Untitled drawing (13)](https://github.com/user-attachments/assets/0d72bc4f-8ec5-4525-beb7-e51ec51ed3be)
 
-Para asistir al encuentro:
+Las [notas de los encuentros se comparten en GitHub Discussions](https://github.com/orgs/ComBuildersES/discussions/categories/notas-de-encuentros)
 
-* **Calendario de encuentros**: [Google Calendar](https://calendar.google.com/calendar/u/0/embed?src=f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12@group.calendar.google.com&ctz=Europe/Madrid) (público) (sincronízalo con el tuyo usando el [ICS](https://calendar.google.com/calendar/ical/f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12%40group.calendar.google.com/public/basic.ics))
-* **Notas**: [Notas de los encuentros](https://github.com/orgs/ComBuildersES/discussions/categories/notas-de-encuentros)
+> **Nota**: si formas parte de Community Builders te animamos a que sincronices el calendario con el tuyo, usando el [ICS](https://calendar.google.com/calendar/ical/f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12%40group.calendar.google.com/public/basic.ics))
 
 ### Presenciales
 
 Mientras se decide si organizar [un encuentro anual presencial](https://github.com/orgs/ComBuildersES/discussions/19) o no, y con el objetivo es formentar/facilitar el conocernos en persona: 
 
-* Os animamos a que os apuntéis en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1yRwi7wFx4InTBstBeMAiWReQD13FhgwurbR6oJF9AUs/edit?usp=sharing) aquellas conferencias presenciales a las que tenéis pensado asistir; para quedar en presencial
+* Os animamos a que **las personas que formáis parte de Community Builders** os apuntéis en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1yRwi7wFx4InTBstBeMAiWReQD13FhgwurbR6oJF9AUs/edit?usp=sharing) en aquellas conferencias presenciales a las que tenéis pensado asistir
+* Sed proactivos y escribir para coordinar una quedada presencial (ejemplo [Commit Conf 2025](https://groups.google.com/u/1/g/community-builders-es/c/bnIXPOFqm58))
 * Y que si queréis, propongáis a la organización de estas conferencias algún tipo de actividad dirigida a "community builders", como desde Commit Conf han facilitado los Open Spaces.
 
 ## Preguntas frecuentes
