@@ -1,6 +1,18 @@
 # Community Builders
 
-## ¿Quieres somos?
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Quienes somos](#quienes-somos)
+- [Ayuda mutua](#ayuda-mutua)
+- [Encuentros](#encuentros)
+  - [Mensuales (online)](#mensuales-online)
+  - [Presenciales](#presenciales)
+- [Preguntas frecuentes](#preguntas-frecuentes)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Quienes somos
 
 > *Actualmente tenemos este rescurso es está accesible solo para personas que forman parte de community builders*
 
@@ -31,3 +43,7 @@ Mientras se decide si organizar [un encuentro anual presencial](https://github.c
 
 * Os animamos a que os apuntéis en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1yRwi7wFx4InTBstBeMAiWReQD13FhgwurbR6oJF9AUs/edit?usp=sharing) aquellas conferencias presenciales a las que tenéis pensado asistir; para quedar en presencial
 * Y que si queréis, propongáis a la organización de estas conferencias algún tipo de actividad dirigida a "community builders", como desde Commit Conf han facilitado los Open Spaces.
+
+## Preguntas frecuentes
+
+¿Tienes más dudas? Revisa [el FAQ](https://github.com/ComBuildersES/community/blob/main/FAQ.md)
