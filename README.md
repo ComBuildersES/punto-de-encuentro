@@ -29,11 +29,13 @@ Con el objetivo de poder ayudarnos se han creado varias iniciativas:
 
 ### Mensuales (online)
 
-El objetivo del encuentro es conectar a personas de la comunidad, y potenciar la colaboración entre personas/comunidades. Cualquier persona que forme parte de la comunidad. Solo hay que asistir al encuentro virtual
+Todos los meses organizamos dos encuentros online en los que pueden participar personas que forman parte de la comunidad, y cuyo es conocer a nuevas personas, y comentar progresos hechos por parte de la comunidad: 
+![Untitled drawing (13)](https://github.com/user-attachments/assets/0d72bc4f-8ec5-4525-beb7-e51ec51ed3be)
 
-* **Calendario**: [Google Calendario](https://calendar.google.com/calendar/u/0/embed?src=f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12@group.calendar.google.com&ctz=Europe/Madrid) (público) (sincroniza usando el [ICS](https://calendar.google.com/calendar/ical/f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12%40group.calendar.google.com/public/basic.ics))
+Para asistir al encuentro:
+
+* **Calendario de encuentros**: [Google Calendar](https://calendar.google.com/calendar/u/0/embed?src=f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12@group.calendar.google.com&ctz=Europe/Madrid) (público) (sincronízalo con el tuyo usando el [ICS](https://calendar.google.com/calendar/ical/f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12%40group.calendar.google.com/public/basic.ics))
 * **Notas**: [Notas de los encuentros](https://github.com/orgs/ComBuildersES/discussions/categories/notas-de-encuentros)
-* **Canal de Discord**: #presentaciones
 
 ### Presenciales
 
