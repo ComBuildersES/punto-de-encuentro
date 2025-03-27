@@ -29,7 +29,7 @@ Con el objetivo de poder ayudarnos se han creado varias iniciativas:
 
 ### Virtuales
 
-**Todos los meses** organizamos dos encuentros online en los que pueden participar personas que forman parte de la comunidad (ver el [calendario de encuentros](https://calendar.google.com/calendar/u/0/embed?src=f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12@group.calendar.google.com&ctz=Europe/Madrid)), y cuyo es conocer a nuevas personas, y comentar progresos hechos por parte de la comunidad: 
+**Todos los meses** organizamos dos encuentros online en los que pueden participar personas que forman parte de la comunidad (ver el [calendario de encuentros](https://calendar.google.com/calendar/u/0/embed?src=f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12@group.calendar.google.com&ctz=Europe/Madrid)), y cuyo es conocer a nuevas personas, y comentar progresos y novedades hechos desde Community Builders. 
 
 ![Untitled drawing (13)](https://github.com/user-attachments/assets/0d72bc4f-8ec5-4525-beb7-e51ec51ed3be)
 
