@@ -74,7 +74,9 @@ Seguimos un sistema de [gobernanza abierta](https://en.wikipedia.org/wiki/Open-s
     </td>
     </tr>
 </table>
+
 ## ¿Cómo se eligen a los admins?
+
 En Septiembre de 2024 [hubo una conversación y votación al respecto](https://groups.google.com/u/1/g/community-builders-es/c/DUPNtKMhz8M) donde se decidió por amplia mayoría que Álvaro y Raúl actuasen de dictadores benevolentes. 
 
 Esto habrá que re-evaluarlo en el futuro, si crees que ya podría ser el momento, te agradecemos que vuelvas a sacar el tema respondiendo a ese mismo hilo, o si lo prefieres, escribiendo a [communitybuilders.es@gmail.com](mailto:communitybuilders.es@gmail.com)
