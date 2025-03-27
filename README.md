@@ -3,7 +3,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Quienes somos](#quienes-somos)
+- [Quiénes somos](#quienes-somos)
 - [Ayuda mutua](#ayuda-mutua)
 - [Encuentros](#encuentros)
   - [Mensuales (online)](#mensuales-online)
@@ -12,7 +12,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Quienes somos
+## Quiénes somos
 
 > *Actualmente tenemos este rescurso es está accesible solo para personas que forman parte de community builders*
 
