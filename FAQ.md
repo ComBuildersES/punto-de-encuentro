@@ -17,17 +17,16 @@
 
 ## ¿Cómo puedo participar en un proyecto existente?
   
- Puedes [encontrar los proyectos aquí](https://github.com/search?q=topic%3Aproyecto+org%3AComBuildersES+fork%3Atrue&type=repositories). Cada repositorio debe tener un fichero `CONTRIBUTING.md` con las instrucciones de cómo participar. Si no lo tiene abre un `issue` en el repositorio. 
- 
- Si no te responden escríbenos a [communitybuilders.es@gmail.com](mailto:communitybuilders.es@gmail.com)
+* Puedes [encontrar los proyectos aquí](https://github.com/search?q=topic%3Aproyecto+org%3AComBuildersES+fork%3Atrue&type=repositories).
+* Cada repositorio debe tener un fichero `CONTRIBUTING.md` con las instrucciones de cómo participar.
+* Si no lo tiene abre un `issue` en el repositorio. 
+* Si no te responden escríbenos a [communitybuilders.es@gmail.com](mailto:communitybuilders.es@gmail.com)
 
 ## ¿Cómo creo un nuevo proyecto?
 
 > **Importante**: Para empezar un nuevo proyecto tienes que formar parte de community builders
 
-Usamos un sistema de “[do-ocracy](https://wiki.osgeo.org/wiki/Do-ocracy)“ como se especifica en [nuestro manifiesto](https://docs.google.com/presentation/d/1aKF09HUjtchR3m6ys2ne-zL9exFkp7I31QqJJMrFwiA/edit#slide=id.g5bac538b3c_0_27), y por tanto animamos a todas las personas que quieran colaborar… [a que lo hagan](https://trello.com/c/oeLCsqyI/27-%E2%9A%A0%EF%B8%8F-importante-leer-esto-si-es-tu-primera-vez-aqu%C3%AD).
-
-Si aún no lo has hecho es [enviar tu idea propuesta aquí](https://github.com/orgs/ComBuildersES/discussions/categories/ideas-y-propuestas) explicando
+Primero, es importante que sepas que seguimos un sistema de '[do-ocracy](https://wiki.osgeo.org/wiki/Do-ocracy)', como indicamos en [nuestro manifiesto](https://docs.google.com/presentation/d/1aKF09HUjtchR3m6ys2ne-zL9exFkp7I31QqJJMrFwiA/edit#slide=id.g5bac538b3c_0_27). Por eso, animamos a todas las personas con ganas de colaborar a que simplemente lo hagan. Por eso, si aún no lo has hecho, lo primero que debes hacer es [enviar tu idea/propuesta aquí](https://github.com/orgs/ComBuildersES/discussions/categories/ideas-y-propuestas) explicando:
 - En qué consiste
 - El objetivo
 - Pidiendo opiniones/feedback
@@ -35,29 +34,29 @@ Si aún no lo has hecho es [enviar tu idea propuesta aquí](https://github.com/o
 
 Después de eso, si se decide seguir adelante hay que:
 
-1. **Comunicar:**
-    1. Un nombre para el canal de comunicación en Discord (para comunicaciones exclusivamente con las personas interesadas en colaborar en ese proyecto).
-    2. Si se necesita usar alguna de nuestras herramientas: Trello, GitHub, YouTube, ... (y comunicarlo a [communitybuilders.es@gmail.com](mailto:communitybuilders.es@gmail.com))
-    3. Quién o quienes liderará la iniciativa
-    4. Quién puede colaborar y cómo
-2. **Por último, usar el "repo template" ([pendiente de crear]()https://trello.com/c/IGZ4feB6/58-nuevo-proyecto)**
+1. **Crear un nuevo repo ussando "repo template" ([pendiente de crear](https://trello.com/c/IGZ4feB6/58-nuevo-proyecto)**
+   - Asegurar el fichero CONTRIBUTING.md explica quién puede colaborar y cómo
+   - Indicar en el README.md en qué consiste la iniciativa, quién lidera y quién participa
+1. Si se necesita acceso a alguna herramienta, canal de Discord, etc, [solicitarlo a los admins](https://github.com/ComBuildersES/community/blob/main/FAQ.md#quienes-administran-community-builders)
 
 Si tienes cualquier problema escríbenos a [communitybuilders.es@gmail.com](mailto:communitybuilders.es@gmail.com)
 
 ## ¿Tiene Community Builders una entidad jurídica?
 
-Un [colectivo](https://dle.rae.es/colectivo?m=form), Un movimiento ([movimiento de bases](https://es.wikipedia.org/wiki/Movimiento_de_bases) (*grassroot*) sin ánimo de lucro, sin estructura legal o entidad jurídica asociada.  
+No, somos un [colectivo](https://dle.rae.es/colectivo?m=form), un [movimiento de bases](https://es.wikipedia.org/wiki/Movimiento_de_bases) (*grassroot*), sin ánimo de lucro, sin estructura legal ni entidad jurídica asociada.  
 ## ¿Dependemos de alguna organización?
 
 No. Somos independientes y no estamos vinculados a ninguna marca/empresa. Tomamos nuestras decisiones libremente como comunidad
 
 ## ¿Cómo surge Community Builders?
 
-Community Builders surge originalmente tras dos Open Spaces organizados en dos ediciones consecutivas de Commit Conf. Con el apoyo de la organización [se hizo un llamamiento a las comunidades](https://blog.commit-conf.com/meetups-sobre-dinamizacion-de-comunidades/) que inicialmente empezaron a comunicarse a través de la lista de correo de Commit Conf.
+Community Builders surge originalmente tras dos Open Spaces organizados en dos ediciones consecutivas de Commit Conf. 
+
+Con el apoyo de la organización [se hizo un llamamiento a las comunidades](https://blog.commit-conf.com/meetups-sobre-dinamizacion-de-comunidades/) que inicialmente empezaron a comunicarse a través de la lista de correo de Commit Conf.
 
 Al poco tiempo la idea original ha ido evolucionando [hacia lo que se puede leer aquí](https://github.com/ComBuildersES) y creamos nuestros propios canales de comunicación.
 
-## ¿Quienes administran Community Builders?
+## ¿Quiénes administran Community Builders?
 
 Son las que personas que "custiodian" el acceso a los datos sensibles (contraseñas, a la [cuenta de correo](mailto:communitybuilders.es@gmail.com)  y quienes tiene los roles de administración de las herramientas, y que por tanto son las encargadas de dar acceso a quien lo necesite).
 A fecha de 3 de Octubre de 2024 estas personas tienen la figura de dictador benevolente hasta que se decida optar por otra forma de gobierno (conversación al respecto).
