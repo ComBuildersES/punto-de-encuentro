@@ -14,18 +14,16 @@
 
 ## Quiénes somos
 
-> *Actualmente tenemos este rescurso es está accesible solo para personas que forman parte de community builders*
-
 Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el networking: 
-* Esta PPT con el [Listado de Community Builders](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit?usp=sharing)
-* Que incluyen las grabaciones de [Charlamos con Community Builders](https://github.com/ComBuildersES/charlamos-con-community-builders)
-* [Grupo de interés](https://docs.google.com/spreadsheets/d/1iruVhaa6c_ZOShmJqpJ2gpNRVowOuCjlmOWKks1kR7I/edit?gid=0#gid=0)
+* Esta PPT -> [Listado de Community Builders](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit?usp=sharing) (*Actualmente sólo está accesible para personas que forman parte de la comunidad*)
+  * Que incluye las grabaciones (de uso interno) de: [Charlamos con Community Builders](https://github.com/ComBuildersES/charlamos-con-community-builders)
+* Hoja de cálculo con los [intereses por participantes](https://docs.google.com/spreadsheets/d/1iruVhaa6c_ZOShmJqpJ2gpNRVowOuCjlmOWKks1kR7I/edit?gid=0#gid=0)
 
 ## Ayuda mutua
 
 Con el objetivo de poder ayudarnos se han creado varias iniciativas:
 * [GitHub Discussions](https://github.com/orgs/ComBuildersES/discussions)
-* [Lista de correo](https://groups.google.com/u/0/g/community-builders-es)
+* [Lista de correo](https://groups.google.com/u/0/g/community-builders-es) 
 
 ## Encuentros
 
