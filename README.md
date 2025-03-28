@@ -22,7 +22,7 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
 ## Ayuda mutua
 
 Con el objetivo de poder ayudarnos se han creado varias iniciativas:
-* [GitHub Discussions](https://github.com/orgs/ComBuildersES/discussions)
+* [GitHub Discussions](https://github.com/orgs/ComBuildersES/discussions) ([suscribirse por email](https://github.com/orgs/ComBuildersES/discussions/1))
 * [Lista de correo](https://groups.google.com/u/0/g/community-builders-es) 
 
 ## Encuentros
