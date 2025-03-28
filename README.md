@@ -7,6 +7,8 @@
 - [Ayuda mutua](#ayuda-mutua)
 - [Encuentros](#encuentros)
   - [Virtuales](#virtuales)
+    - [Mensuales de comunidad](#mensuales-de-comunidad)
+    - [Otros](#otros)
   - [Presenciales](#presenciales)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -29,6 +31,8 @@ Con el objetivo de poder ayudarnos se han creado varias iniciativas:
 
 ### Virtuales
 
+#### Mensuales de comunidad
+
 **Todos los meses** organizamos dos encuentros online en los que pueden participar personas que forman parte de la comunidad (ver el [calendario de encuentros](https://calendar.google.com/calendar/u/0/embed?src=f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12@group.calendar.google.com&ctz=Europe/Madrid)), y cuyo es conocer a nuevas personas, y comentar progresos y novedades hechos desde Community Builders. 
 
 ![Untitled drawing (13)](https://github.com/user-attachments/assets/0d72bc4f-8ec5-4525-beb7-e51ec51ed3be)
@@ -36,6 +40,12 @@ Con el objetivo de poder ayudarnos se han creado varias iniciativas:
 Las [notas de los encuentros se comparten en GitHub Discussions](https://github.com/orgs/ComBuildersES/discussions/categories/notas-de-encuentros)
 
 > **Nota**: si formas parte de Community Builders te animamos a que sincronices el calendario con el tuyo, usando el [ICS](https://calendar.google.com/calendar/ical/f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12%40group.calendar.google.com/public/basic.ics))
+
+#### Otros
+
+Animamos a todas las personas de la comunidad a que propongan otros encuentros para tratar otros temas de interés. Actualmente no hay un mecanismo estándar definido, por lo que hasta que se decida uno oficial podéis enviar vuestra las propuestas donde queráis: [la lista de correo](https://groups.google.com/g/community-builders-es), el Discord de la comunidad, si la temática aplica una la categoría de discussions (si aplica a la temática), etc. Si necesitáis ayuda o tenéis duda contactad con [los admins](https://github.com/ComBuildersES/community-builders/blob/main/FAQ.md#qui%C3%A9nes-administran-community-builders) para que os ayudemos a coordinarlo.
+
+> **Nota** no es un requisito tomar notas de los encuentros, está bien que sean informales, sin más.
 
 ### Presenciales
 
