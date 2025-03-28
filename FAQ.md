@@ -56,6 +56,8 @@ Con el apoyo de la organización [se hizo un llamamiento a las comunidades](http
 
 Al poco tiempo la idea original ha ido evolucionando [hacia lo que se puede leer aquí](https://github.com/ComBuildersES) y creamos nuestros propios canales de comunicación.
 
+> **Nota**: Y esta cuenta de GitHub es reutilizada de la de [Comunidades Tecnológicas (de Madrid)](https://github.com/Comunidades-Technologicas)
+
 ## ¿Quiénes administran Community Builders?
 
 Son las que personas que "custiodian" el acceso a los datos sensibles (contraseñas, a la [cuenta de correo](mailto:communitybuilders.es@gmail.com)  y quienes tiene los roles de administración de las herramientas, y que por tanto son las encargadas de dar acceso a quien lo necesite).
