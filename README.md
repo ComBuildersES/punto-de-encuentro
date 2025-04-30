@@ -27,7 +27,7 @@ Reconocemos todo tipo de contribuciones. Este proyecto sigue la especificación 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.rauljimenez.info"><img src="https://avatars.githubusercontent.com/u/826965?v=4?s=100" width="100px;" alt="Raul Jimenez Ortega"/><br /><sub><b>Raul Jimenez Ortega</b></sub></a><br /><a href="#doc-hhkaos" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.rauljimenez.info"><img src="https://avatars.githubusercontent.com/u/826965?v=4?s=100" width="100px;" alt="Raul Jimenez Ortega"/><br /><sub><b>Raul Jimenez Ortega</b></sub></a><br /><a href="#doc-hhkaos" title="Documentation">📖</a> <a href="#eventOrganizing-hhkaos" title="Event Organizing">📋</a> <a href="#maintenance-hhkaos" title="Maintenance">🚧</a> <a href="#ideas-hhkaos" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
