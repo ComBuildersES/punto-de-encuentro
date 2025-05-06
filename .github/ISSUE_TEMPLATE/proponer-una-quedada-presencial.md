@@ -1,5 +1,5 @@
 ---
-name: Propón una quedada
+name: Proponer una quedada presencial
 about: Si tienes pensado desplazarte a una ciudad o un evento avisa al resto
 title: "[Quedada en] EVENTO | CIUDAD | FECHAS"
 labels: quedada-presencial
