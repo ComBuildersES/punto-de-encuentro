@@ -43,13 +43,15 @@ En una epoca en la que ya pasamos tantas horas frente a la pantalla... muchas pe
 
 ![Quedadas presenciales](./images/quedadas-presenciales.png)
 
-Y aunque en esta comunidad estamos bastante dispersos geográficamente, existen oportunidades para vernos en persona. Así que te animamos a que uses [los issues](https://github.com/ComBuildersES/punto-de-encuentro/issues) para quedar con personas que forman parte de esta comunidad, p.e.:
-* **Avisando de las conferencias presenciales** a las que tengas pensado asistir.
-* **O de los desplazamientos que vayas a hacer a otras ciudades** por otros motivos, y en los que quieras quedar.
+Y aunque en esta comunidad estamos bastante dispersos geográficamente, existen oportunidades para vernos en persona. Así que te animamos a que:
+* Eches un vistazo a las [quedadas presenciales que hay propuestas](https://github.com/ComBuildersES/punto-de-encuentro/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3Aquedada-presencial) y avises si vas a ir.
+* O propongas tú una usando este [issue template](https://github.com/ComBuildersES/punto-de-encuentro/issues/new?template=prop%C3%B3n-una-quedada.md)
 
-> **Nota**: y si organizas alguna conferencia y quieres, puedes **proponer alguna actividad (durante la conferencia) dirigida a "*community builders*"** (open space, *social*, etc) y hacer un llamamiento por aquí.
+También puedes crear un issue si:
+* **Te vas a desplazar a otras ciudad** por otros motivos, y quieres avisar para quedar.
+* Si organizas alguna conferencia y quieres **proponer alguna actividad (durante la conferencia) dirigida a "*community builders*"** (open space, *social*, etc)
 
-Y te animas... también propusimos [organizar un "gran" encuentro presencial](https://github.com/orgs/ComBuildersES/discussions/19), pero falta alguien que quiera y pueda liderar la iniciativa 😜.
+Y si te animas... también propusimos [organizar un "gran" encuentro presencial](https://github.com/orgs/ComBuildersES/discussions/19), pero falta alguien que quiera y pueda liderar la iniciativa 😜.
 
 ## Encuentros online mensuales
 
