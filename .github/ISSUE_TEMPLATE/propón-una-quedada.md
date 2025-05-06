@@ -2,7 +2,7 @@
 name: Propón una quedada
 about: Si tienes pensado desplazarte a una ciudad o un evento avisa al resto
 title: "[Quedada en] EVENTO | CIUDAD | FECHAS"
-labels: formato/presencial, tipo/conferencia
+labels: quedada-presencial
 assignees: ''
 
 ---
