@@ -1,6 +1,6 @@
 # Punto de encuentro
 
-Esta iniciativa surge con el objetivo de facilitar el networking (online y presencial), para fomentar el intercambio de experiencias y la ayuda mutua **entre personas que dinamizan comunidades**.	
+Esta iniciativa surge con el objetivo de facilitar el networking (online y presencial), el intercambio de experiencias y la ayuda mutua **entre personas que dinamizan comunidades**.	
 
 ![](/images/Punto%20de%20encuentro%20-%20Community%20Builders.png?raw=true)
 
