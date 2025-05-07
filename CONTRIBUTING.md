@@ -1,4 +1,4 @@
-# Contributing
+# Cómo contribuir
 
 **¿Quién puede participar?**  
 Esta iniciativa está dirigida principalmente a personas que dinamizan comunidades técnicas relacionadas con el día a día del desarrollo y la tecnología.
