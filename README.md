@@ -4,7 +4,7 @@ Esta iniciativa surge con el objetivo de facilitar el networking (online y prese
 
 ![](/images/Punto%20de%20encuentro%20-%20Community%20Builders.png?raw=true)
 
-# Participa
+## Participa
 
 Si quieres saber quién puede participar y las diferentes formas de hacerlo, consulta nuestra [guía de contribución](CONTRIBUTING.md) para empezar.
 
