@@ -75,6 +75,7 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
       <td align="center" valign="top" width="14.28%"><a href="http://about.me/jorgearanda"><img src="https://avatars.githubusercontent.com/u/5855639?v=4?s=100" width="100px;" alt="Jorge"/><br /><sub><b>Jorge</b></sub></a><br /><a href="#ideas-Naish21" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/andreamagan"><img src="https://avatars.githubusercontent.com/u/45942798?v=4?s=100" width="100px;" alt="Andrea Magán Rey"/><br /><sub><b>Andrea Magán Rey</b></sub></a><br /><a href="#ideas-andreamagan" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://svg153.github.io"><img src="https://avatars.githubusercontent.com/u/9192031?v=4?s=100" width="100px;" alt="Sergio Valverde"/><br /><sub><b>Sergio Valverde</b></sub></a><br /><a href="#ideas-svg153" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alexao8"><img src="https://avatars.githubusercontent.com/u/61477091?v=4?s=100" width="100px;" alt="Alex Alemany"/><br /><sub><b>Alex Alemany</b></sub></a><br /><a href="#ideas-alexao8" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
