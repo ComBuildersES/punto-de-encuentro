@@ -49,6 +49,7 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
       <td align="center" valign="top" width="14.28%"><a href="https://www.mytechplan.com/"><img src="https://avatars.githubusercontent.com/u/98886279?v=4?s=100" width="100px;" alt="Julieta Zalduendo"/><br /><sub><b>Julieta Zalduendo</b></sub></a><br /><a href="#ideas-julietazalduendo" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/aguadotzn"><img src="https://avatars.githubusercontent.com/u/22575055?v=4?s=100" width="100px;" alt="Adrián"/><br /><sub><b>Adrián</b></sub></a><br /><a href="#ideas-aguadotzn" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-aguadotzn" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/eun-plata"><img src="https://avatars.githubusercontent.com/u/25737523?v=4?s=100" width="100px;" alt="Eun Young Cho (Plata)"/><br /><sub><b>Eun Young Cho (Plata)</b></sub></a><br /><a href="#ideas-eun-plata" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://amorodio.es"><img src="https://avatars.githubusercontent.com/u/1371816?v=4?s=100" width="100px;" alt="Pablo Rod."/><br /><sub><b>Pablo Rod.</b></sub></a><br /><a href="#ideas-yondemon" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
