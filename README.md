@@ -35,6 +35,7 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/anagilamor/"><img src="https://avatars.githubusercontent.com/u/10085811?v=4?s=100" width="100px;" alt="Ana Manosfrias"/><br /><sub><b>Ana Manosfrias</b></sub></a><br /><a href="#ideas-Manosfrias" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/mesa"><img src="https://avatars.githubusercontent.com/u/7116402?v=4?s=100" width="100px;" alt="Luis Mesa"/><br /><sub><b>Luis Mesa</b></sub></a><br /><a href="#ideas-luismesalas" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
