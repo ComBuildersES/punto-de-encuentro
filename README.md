@@ -40,6 +40,7 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/npatarino"><img src="https://avatars.githubusercontent.com/u/209096?v=4?s=100" width="100px;" alt="Nicolás Patarino"/><br /><sub><b>Nicolás Patarino</b></sub></a><br /><a href="#ideas-npatarino" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://aparicio.it"><img src="https://avatars.githubusercontent.com/u/74605730?v=4?s=100" width="100px;" alt="Pedro Pablo Aparicio"/><br /><sub><b>Pedro Pablo Aparicio</b></sub></a><br /><a href="#ideas-PeterPaulez" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://lucascervera.com"><img src="https://avatars.githubusercontent.com/u/2197153?v=4?s=100" width="100px;" alt="Lucas Cervera"/><br /><sub><b>Lucas Cervera</b></sub></a><br /><a href="#ideas-lucascervera" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://anabuigues.com"><img src="https://avatars.githubusercontent.com/u/592441?v=4?s=100" width="100px;" alt="Ana Buigues"/><br /><sub><b>Ana Buigues</b></sub></a><br /><a href="#ideas-anabuigues" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
