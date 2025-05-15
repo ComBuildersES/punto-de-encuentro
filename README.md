@@ -60,6 +60,9 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
       <td align="center" valign="top" width="14.28%"><a href="https://xavidop.me/"><img src="https://avatars.githubusercontent.com/u/4416096?v=4?s=100" width="100px;" alt="Xavier Portilla Edo"/><br /><sub><b>Xavier Portilla Edo</b></sub></a><br /><a href="#ideas-xavidop" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-xavidop" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Qwor01"><img src="https://avatars.githubusercontent.com/u/113616553?v=4?s=100" width="100px;" alt="Ignacio Espósito"/><br /><sub><b>Ignacio Espósito</b></sub></a><br /><a href="#ideas-Qwor01" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-Qwor01" title="Answering Questions">💬</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://teixe.es"><img src="https://avatars.githubusercontent.com/u/45232371?v=4?s=100" width="100px;" alt="Jorge Teixeira"/><br /><sub><b>Jorge Teixeira</b></sub></a><br /><a href="#ideas-jorgeteixe" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-jorgeteixe" title="Answering Questions">💬</a></td>
+    </tr>
   </tbody>
 </table>
 
