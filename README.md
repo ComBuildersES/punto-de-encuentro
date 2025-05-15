@@ -42,6 +42,9 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
       <td align="center" valign="top" width="14.28%"><a href="https://lucascervera.com"><img src="https://avatars.githubusercontent.com/u/2197153?v=4?s=100" width="100px;" alt="Lucas Cervera"/><br /><sub><b>Lucas Cervera</b></sub></a><br /><a href="#ideas-lucascervera" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://anabuigues.com"><img src="https://avatars.githubusercontent.com/u/592441?v=4?s=100" width="100px;" alt="Ana Buigues"/><br /><sub><b>Ana Buigues</b></sub></a><br /><a href="#ideas-anabuigues" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://javiervelezreyes.com"><img src="https://avatars.githubusercontent.com/u/6446073?v=4?s=100" width="100px;" alt="Javier Vélez Reyes"/><br /><sub><b>Javier Vélez Reyes</b></sub></a><br /><a href="#ideas-javiervelezreyes" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-javiervelezreyes" title="Answering Questions">💬</a></td>
+    </tr>
   </tbody>
 </table>
 
