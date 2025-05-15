@@ -89,4 +89,4 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Las instrucciones para añadirte o añadir emojis de contribución a tu nombre están [en este *issue*]([https://github.com/ComBuildersES/communities-directory/issues/22](https://github.com/ComBuildersES/punto-de-encuentro/issues/35)). 
+Las instrucciones para añadirte o añadir emojis de contribución a tu nombre están [en este *issue*](https://github.com/ComBuildersES/punto-de-encuentro/issues/35). 
