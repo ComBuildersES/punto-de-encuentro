@@ -73,6 +73,7 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
       <td align="center" valign="top" width="14.28%"><a href="http://beelzenef.github.io"><img src="https://avatars.githubusercontent.com/u/6389665?v=4?s=100" width="100px;" alt="Elena.NET"/><br /><sub><b>Elena.NET</b></sub></a><br /><a href="#question-Beelzenef" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.bonillaware.com"><img src="https://avatars.githubusercontent.com/u/293330?v=4?s=100" width="100px;" alt="David Bonilla"/><br /><sub><b>David Bonilla</b></sub></a><br /><a href="#question-dbonillaf" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://about.me/jorgearanda"><img src="https://avatars.githubusercontent.com/u/5855639?v=4?s=100" width="100px;" alt="Jorge"/><br /><sub><b>Jorge</b></sub></a><br /><a href="#ideas-Naish21" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/andreamagan"><img src="https://avatars.githubusercontent.com/u/45942798?v=4?s=100" width="100px;" alt="Andrea Magán Rey"/><br /><sub><b>Andrea Magán Rey</b></sub></a><br /><a href="#ideas-andreamagan" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
