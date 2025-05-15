@@ -37,6 +37,7 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/anagilamor/"><img src="https://avatars.githubusercontent.com/u/10085811?v=4?s=100" width="100px;" alt="Ana Manosfrias"/><br /><sub><b>Ana Manosfrias</b></sub></a><br /><a href="#ideas-Manosfrias" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/mesa"><img src="https://avatars.githubusercontent.com/u/7116402?v=4?s=100" width="100px;" alt="Luis Mesa"/><br /><sub><b>Luis Mesa</b></sub></a><br /><a href="#ideas-luismesalas" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.danielcastanera.com"><img src="https://avatars.githubusercontent.com/u/6005590?v=4?s=100" width="100px;" alt="Daniel Castañera Garrido"/><br /><sub><b>Daniel Castañera Garrido</b></sub></a><br /><a href="#ideas-guldoe" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/npatarino"><img src="https://avatars.githubusercontent.com/u/209096?v=4?s=100" width="100px;" alt="Nicolás Patarino"/><br /><sub><b>Nicolás Patarino</b></sub></a><br /><a href="#ideas-npatarino" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
