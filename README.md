@@ -29,6 +29,7 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kdarrey"><img src="https://avatars.githubusercontent.com/u/3646738?v=4?s=100" width="100px;" alt="kdarrey"/><br /><sub><b>kdarrey</b></sub></a><br /><a href="#ideas-kdarrey" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-kdarrey" title="Event Organizing">📋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/oskarcalvo"><img src="https://avatars.githubusercontent.com/u/85880?v=4?s=100" width="100px;" alt="Oskar Calvo"/><br /><sub><b>Oskar Calvo</b></sub></a><br /><a href="#ideas-oskarcalvo" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-oskarcalvo" title="Event Organizing">📋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AbrahamOtero"><img src="https://avatars.githubusercontent.com/u/5107030?v=4?s=100" width="100px;" alt="AbrahamOtero"/><br /><sub><b>AbrahamOtero</b></sub></a><br /><a href="#ideas-AbrahamOtero" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://jecaestevez.com"><img src="https://avatars.githubusercontent.com/u/1833176?v=4?s=100" width="100px;" alt="Jesus Estevez"/><br /><sub><b>Jesus Estevez</b></sub></a><br /><a href="#ideas-jecaestevez" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
