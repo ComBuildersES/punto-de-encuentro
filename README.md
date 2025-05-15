@@ -19,8 +19,6 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
 
 ## Contributors
 
-Reconocemos todo tipo de contribuciones. Este proyecto sigue la especificación de [all-contributors](https://github.com/all-contributors/all-contributors) y la [Emoji Key ✨](https://allcontributors.org/docs/en/emoji-key) para los tipos de contribución. Las instrucciones para añadirte o añadir emojis de contribución a tu nombre están [aquí](https://github.com/ComBuildersES/punto-de-encuentro/issues/35). También puedes publicar un issue o comentar en un pull request con el texto: `@all-contributors please add @TuUsuarioDeGitHub for ____` (donde '___' es una lista separada por comas de entradas de la lista de posibles tipos de contribución) y nuestro *bot* se encargará de pedir que te añadamos a la lista.
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -36,3 +34,5 @@ Reconocemos todo tipo de contribuciones. Este proyecto sigue la especificación 
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Las instrucciones para añadirte o añadir emojis de contribución a tu nombre están [en este *issue*]([https://github.com/ComBuildersES/communities-directory/issues/22](https://github.com/ComBuildersES/punto-de-encuentro/issues/35)). 
