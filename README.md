@@ -62,6 +62,7 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://teixe.es"><img src="https://avatars.githubusercontent.com/u/45232371?v=4?s=100" width="100px;" alt="Jorge Teixeira"/><br /><sub><b>Jorge Teixeira</b></sub></a><br /><a href="#ideas-jorgeteixe" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-jorgeteixe" title="Answering Questions">💬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/mariomnts"><img src="https://avatars.githubusercontent.com/u/5486339?v=4?s=100" width="100px;" alt="Mario Montes"/><br /><sub><b>Mario Montes</b></sub></a><br /><a href="#ideas-mariomnts" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-mariomnts" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
 </table>
