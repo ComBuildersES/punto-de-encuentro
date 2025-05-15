@@ -159,6 +159,15 @@
         "ideas",
         "question"
       ]
+    },
+    {
+      "login": "alvarosaugar",
+      "name": "Álvaro Saugar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37780691?v=4",
+      "profile": "https://github.com/alvarosaugar",
+      "contributions": [
+        "ideas"
+      ]
     }
   ]
 }
