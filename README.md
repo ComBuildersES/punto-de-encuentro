@@ -67,6 +67,7 @@ Con el objetivo de que podamos conocernos, compartir experiencias y facilitar el
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/angelisco1"><img src="https://avatars.githubusercontent.com/u/6765239?v=4?s=100" width="100px;" alt="Ángel Villalba Fernández-Paniagua"/><br /><sub><b>Ángel Villalba Fernández-Paniagua</b></sub></a><br /><a href="#ideas-angelisco1" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/nadiaujovich/"><img src="https://avatars.githubusercontent.com/u/48018975?v=4?s=100" width="100px;" alt="Nadia Ujovich"/><br /><sub><b>Nadia Ujovich</b></sub></a><br /><a href="#question-nujovich" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://joanviladomat.github.io"><img src="https://avatars.githubusercontent.com/u/35274981?v=4?s=100" width="100px;" alt="Joan Viladomat"/><br /><sub><b>Joan Viladomat</b></sub></a><br /><a href="#ideas-joanviladomat" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://nicolasgrenie.com"><img src="https://avatars.githubusercontent.com/u/172072?v=4?s=100" width="100px;" alt="Nicolas Grenié"/><br /><sub><b>Nicolas Grenié</b></sub></a><br /><a href="#question-picsoung" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
 </table>
