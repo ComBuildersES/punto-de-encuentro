@@ -1,3 +1,5 @@
+[![All Contributors](https://img.shields.io/github/all-contributors/ComBuildersES/punto-de-encuentro?color=ee8449&style=flat-square)](#contributors)
+
 # Punto de encuentro
 
 Esta iniciativa surge con el objetivo de facilitar el networking (online y presencial), el intercambio de experiencias y la ayuda mutua **entre personas que dinamizan comunidades**.	
