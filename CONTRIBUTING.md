@@ -55,7 +55,7 @@ En una época donde pasamos tantas horas frente a pantallas, muchas personas val
 Aunque estamos bastante repartidos geográficamente, hay oportunidades para vernos. Te animamos a:
 
 - Consultar las [quedadas presenciales propuestas](https://github.com/ComBuildersES/punto-de-encuentro/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3Aquedada-presencial) y avisar si vas a asistir.
-- Proponer una nueva quedada usando [este issue template](https://github.com/ComBuildersES/punto-de-encuentro/issues/new?template=prop%C3%B3n-una-quedada.md)
+- Proponer una nueva quedada usando [este issue template](https://github.com/ComBuildersES/punto-de-encuentro/issues/new?template=proponer-una-quedada-presencial.md)
 
 También puedes crear un issue si:
 
