@@ -10,6 +10,10 @@ Esta iniciativa surge con el objetivo de facilitar el networking (online y prese
 
 Si quieres saber quién puede participar y las diferentes formas de hacerlo, consulta nuestra [guía de contribución](CONTRIBUTING.md) para empezar.
 
+Echa un vistazo a algunas de las tareas por las que podrías empezar a ayudar: 
+
+[![GitHub issues by-label](https://img.shields.io/github/issues/ComBuildersES/punto-de-encuentro/good%20first%20issue)](https://github.com/ComBuildersES/punto-de-encuentro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
 <!--
 ## Quiénes somos
 
