@@ -19,4 +19,7 @@ Personas de la comunidad que hemos confirmado asistencia:
 
 [Como siempre](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#encuentros-presenciales), si alguien se apunta que  responda en este issue y hacemos por quedar 😄 .
 
-<!-- Recuerda que puedes usar el handler de equipos ( @provincia/isla, por ej: @@ComBuildersES/provincia-madrid ) para notificar a las personas cercanas -->
+Recordatorios:
+* En Discord tenemos el canal #eventos, para que las personas que asistan puedan comunicarse durante el evento (si no están conectadas por otras vías).
+* Podéis usar el handler de equipos ( @provincia/isla, por ej: @ComBuildersES/provincia-madrid ) para notificar a las personas en ubicaciones cercanas.
+* Si finalmente se organiza quedada, hagamos por tirar una fotillo y compartirla aquí 📸😜
