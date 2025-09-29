@@ -106,3 +106,4 @@ Puedes escribir a la lista si:
 - Quieres compartir algo importante con toda la comunidad.
 
 > ❓ ¿Tienes dudas sobre si procede enviar un correo a la lista? Pregúntanos [abriendo un issue aquí](https://github.com/ComBuildersES/gestion-interna/issues)
+ > ℹ️ **Aviso**: La lista de correo no se utilizará para anunciar C4P, eventos, etc.
