@@ -40,7 +40,7 @@ Hay muchas formas de colaborar, tantas como tipos de personas. Puedes:
 
 Visita: [GitHub Discussion](https://github.com/orgs/ComBuildersES/discussions) para participar en hilos existentes o crear uno nuevo.
 
-Hemos creado [múltiples categorías](https://github.com/orgs/ComBuildersES/discussions/new/choose). Si crees que tu tema no encaja en ninguna, [avísanos aquí](https://github.com/orgs/ComBuildersES/discussions/categories/github-discussions).
+Hemos creado [múltiples categorías](https://github.com/orgs/ComBuildersES/discussions/new/choose). Si crees que tu tema no encaja en ninguna de ellas, [avísanos aquí](https://github.com/orgs/ComBuildersES/discussions/categories/github-discussions).
 
 > ⭐ **Recomendación**: para estar al tanto de todo, [activa las notificaciones por email](https://github.com/orgs/ComBuildersES/discussions/1)
 
@@ -48,7 +48,7 @@ Hemos creado [múltiples categorías](https://github.com/orgs/ComBuildersES/disc
 
 ## Encuentros presenciales
 
-En una época donde pasamos tantas horas frente a pantallas, muchas personas valoramos encontrarnos cara a cara.
+En una época en la que pasamos tantas horas frente a pantallas, muchas personas valoran encontrarnos cara a cara.
 
 ![Quedadas presenciales](./images/quedadas-presenciales.png)
 
@@ -60,7 +60,7 @@ Aunque estamos bastante repartidos geográficamente, hay oportunidades para vern
 También puedes crear un issue si:
 
 - **Vas a desplazarte a otra ciudad** y quieres aprovechar para quedar con personas de la comunidad.
-- Organizas una conferencia y quieres **proponer una actividad dirigida a *community builders*** (open space, sesión social, etc).
+- Organizas una conferencia y quieres **proponer una actividad dirigida a *community builders*** (open space, sesión social, etc.).
 
 > **FYI**: Además, propusimos [organizar un gran encuentro presencial](https://github.com/orgs/ComBuildersES/discussions/19)... pero falta quien se anime a liderarlo (si te animas... ¡dilo! 😜).
 
@@ -68,11 +68,11 @@ También puedes crear un issue si:
 
 ## Encuentros online mensuales
 
-Todos los meses organizamos dos encuentros online por Discord, abiertos a cualquier persona de la comunidad. El objetivo es mantener el contacto, dar la bienvenida a nuevas incorporaciones y comentar los temas del orden del día, que se publica previamente en [Encuentros](https://github.com/orgs/ComBuildersES/discussions?discussions_q=is%3Aopen+Encuentro+mensual+Community+Builders).
+Todos los meses organizamos dos encuentros online en Discord, abiertos a cualquier persona de la comunidad. El objetivo es mantener el contacto, dar la bienvenida a nuevas incorporaciones y comentar los temas del orden del día, que se publican previamente en [Encuentros](https://github.com/orgs/ComBuildersES/discussions?discussions_q=is%3Aopen+Encuentro+mensual+Community+Builders).
 
 📅 Puedes consultar y sincronizar el calendario desde [aquí](https://calendar.google.com/calendar/u/0/embed?src=f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12@group.calendar.google.com&ctz=Europe/Madrid)
 
-> 📌 **Nota**: Si no quieres perderte nada, puedes [añadir este ICS a tu calendario](https://calendar.google.com/calendar/ical/f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12%40group.calendar.google.com/public/basic.ics)
+> 📌 **Nota**: Si no quieres perderte nada, puedes [añadir este ICS a tu calendario](https://calendar.google.com/calendar/ical/f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12%40group.calendar.google.com/public/basic.ics) (instrucciones para importar calendario iCal/ics: [Google Calendar](https://support.google.com/calendar/answer/37118?hl=es) & [Outlook](https://www.youtube.com/watch?v=h3hnRSjzmoo))
 
 ![Encuentros online](https://github.com/user-attachments/assets/0d72bc4f-8ec5-4525-beb7-e51ec51ed3be)
 
@@ -82,27 +82,27 @@ Todos los meses organizamos dos encuentros online por Discord, abiertos a cualqu
 
 Los encuentros explicando en el apartado anterior no tienen un foco concreto en una temática, y se van decidiendo mes a mes. 
 
-Por eso, si hay un tema concreto sobre el que te gustaría debatir con otras personas de la comunidad en un encuentro online, ya sea puntual o recurrente, te animamos a que lo propon, os animamos a que [abras un issue con tu propuesta](https://github.com/ComBuildersES/punto-de-encuentro/issues/new?template=proponer-un-encuentro-online.md), para que puedas coordinarte con otras personas interesadas en participar.
+Por eso, si hay un tema concreto sobre el que te gustaría debatir con otras personas de la comunidad en un encuentro online, ya sea puntual o recurrente, te animamos a que lo propongas, os animamos a que [abras un issue con tu propuesta](https://github.com/ComBuildersES/punto-de-encuentro/issues/new?template=proponer-un-encuentro-online.md), para que puedas coordinarte con otras personas interesadas en participar.
 
-> ℹ️ **Aviso**: No es necesario tomar actas ni hacer algo formal. Está bien que estos encuentros sean relajados e informales.
+> ℹ️ **Aviso**: No es necesario tomar actas ni realizar algo formal. Está bien que estos encuentros sean relajados e informales.
 
 ---
 
 ## Chat de Discord
 
-Si prefieres algo más inmediato que los foros, puedes usar el servidor de Discord al que se te dio acceso al entrar en la comunidad. Allí puedes hablar con otras personas en tiempo real.
+Si prefieres algo más inmediato que los foros, puedes usar el servidor de Discord al que se te dio acceso al entrar a la comunidad. Allí puedes hablar con otras personas en tiempo real.
 
-> **Nota**: Si aún no tienes acceso escríbe a [los admins](https://github.com/ComBuildersES/.github/blob/main/FAQ.md#qui%C3%A9nes-administran-community-builders)
+> **Nota**: Si aún no tienes acceso, escríbe a [los admins](https://github.com/ComBuildersES/.github/blob/main/FAQ.md#qui%C3%A9nes-administran-community-builders)
 
 ---
 
 ## Lista de correo
 
-Aunque no todas las personas usan las notificacines de GitHub o asisten a los encuentros, sí están todas dadas de alta en la [lista de correo](https://groups.google.com/g/community-builders-es): `community-builders-es@googlegroups.com`.
+Aunque no todas las personas usan las notificaciones de GitHub ni asisten a los encuentros, sí están todas dadas de alta en la [lista de correo](https://groups.google.com/g/community-builders-es): `community-builders-es@googlegroups.com`.
 
 Puedes escribir a la lista si:
 
-- Hiciste una consulta en GitHub y no tuviste respuesta.
+- Hiciste una consulta en GitHub y no recibiste respuesta.
 - Quieres compartir algo importante con toda la comunidad.
 
 > ❓ ¿Tienes dudas sobre si procede enviar un correo a la lista? Pregúntanos [abriendo un issue aquí](https://github.com/ComBuildersES/gestion-interna/issues)
