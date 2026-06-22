@@ -72,7 +72,9 @@ Todos los meses organizamos dos encuentros online en Discord, abiertos a cualqui
 
 📅 Puedes consultar y sincronizar el calendario desde [aquí](https://calendar.google.com/calendar/u/0/embed?src=f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12@group.calendar.google.com&ctz=Europe/Madrid)
 
-> 📌 **Nota**: Si no quieres perderte nada, puedes [añadir este ICS a tu calendario](https://calendar.google.com/calendar/ical/f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12%40group.calendar.google.com/public/basic.ics) (instrucciones para importar calendario iCal/ics: [Google Calendar](https://support.google.com/calendar/answer/37118?hl=es) & [Outlook](https://www.youtube.com/watch?v=h3hnRSjzmoo))
+Si no quieres perderte nada, puedes:
+1. [Añadir este ICS a tu calendario](https://calendar.google.com/calendar/ical/f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12%40group.calendar.google.com/public/basic.ics) (instrucciones para importar calendario iCal/ics: [Google Calendar](https://support.google.com/calendar/answer/37118?hl=es) & [Outlook](https://www.youtube.com/watch?v=h3hnRSjzmoo))
+2. Suscribirte a los recordatorios a través del bot de Telegram: [@ComBuildersEsBot](https://web.telegram.org/k/#@ComBuildersEsBot). ([algo + de info sobre este bot aquí](https://github.com/ComBuildersES/punto-de-encuentro/issues/40#issuecomment-4162387610))
 
 ![Encuentros online](https://github.com/user-attachments/assets/0d72bc4f-8ec5-4525-beb7-e51ec51ed3be)
 
